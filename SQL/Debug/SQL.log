@@ -1,4 +1,4 @@
-﻿Build started 5/13/2017 8:16:20 PM.
+﻿Build started 5/15/2017 7:58:59 AM.
      1>Project "C:\Users\Kevin\Documents\HK2 16 - 17\SQL\SQL\SQL.vcxproj" on node 2 (Build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\SQL.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -22,4 +22,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:12.31
+Time Elapsed 00:00:18.70
